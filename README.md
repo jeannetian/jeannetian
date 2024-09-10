@@ -7,7 +7,7 @@ I'm Jeanne, a self-taugh web developer working with:
 - Minitest for testing
 - CSS for the frontend
 
-I'm creating a personnal finance web application, and will open-source it very soon!
+I'm creating an open-source personnal finance web application! 👀
 
 Stay tuned ✌️
 
