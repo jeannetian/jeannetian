@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm Jeanne, a self-taugh web developer working with:
+I'm Jeanne, a self-taught web developer working with:
 
 - Ruby and Ruby on Rails
 - Turbo and Stimulus for sprinkles (✨) of JavaScript
-- Minitest for testing
 - CSS for the frontend
 
 I'm creating an open-source personnal finance web application! 👀
